@@ -1,7 +1,0 @@
-{
-  "profiles": {
-    "Cuddles.Windows": {
-      "commandName": "MsixPackage"
-    }
-  }
-}
